@@ -1,0 +1,9 @@
+C:\Users\Wilmer\source\repos\ClasificarArchivos\bin\Debug\netcoreapp3.1\ClasificarArchivos.deps.json
+C:\Users\Wilmer\source\repos\ClasificarArchivos\bin\Debug\netcoreapp3.1\ClasificarArchivos.dll
+C:\Users\Wilmer\source\repos\ClasificarArchivos\bin\Debug\netcoreapp3.1\ClasificarArchivos.pdb
+C:\Users\Wilmer\source\repos\ClasificarArchivos\obj\Debug\netcoreapp3.1\ClasificarArchivos.csprojAssemblyReference.cache
+C:\Users\Wilmer\source\repos\ClasificarArchivos\obj\Debug\netcoreapp3.1\ClasificarArchivos.AssemblyInfoInputs.cache
+C:\Users\Wilmer\source\repos\ClasificarArchivos\obj\Debug\netcoreapp3.1\ClasificarArchivos.AssemblyInfo.cs
+C:\Users\Wilmer\source\repos\ClasificarArchivos\obj\Debug\netcoreapp3.1\ClasificarArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Wilmer\source\repos\ClasificarArchivos\obj\Debug\netcoreapp3.1\ClasificarArchivos.dll
+C:\Users\Wilmer\source\repos\ClasificarArchivos\obj\Debug\netcoreapp3.1\ClasificarArchivos.pdb
